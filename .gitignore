@@ -1,0 +1,7 @@
+# Keep local raw or processed market data out of this public repository.
+/data/
+
+# Python cache files.
+__pycache__/
+*.py[cod]
+.pytest_cache/
